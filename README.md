@@ -1,4 +1,4 @@
-# A test assignment for employment in Deepra company.
+A test assignment for employment in Deepra company.
 
 ## Task
 
